@@ -10,20 +10,20 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://mehdisalimi.com)
-[![website](./img/globe-dark.svg)](https://mehdisalimi.com)
+[![website](./img/globe-light.svg)](https://mehdisalimi.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://mehdisalimi.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/mehdisalimi)
-[![website](./img/youtube-dark.svg)](https://youtube.com/mehdisalimi)
+[![website](./img/youtube-light.svg)](https://youtube.com/mehdisalimi#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/mehdisalimi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/mehdi2050)
-[![website](./img/twitter-dark.svg)](https://twitter.com/mehdi2050)
+[![website](./img/twitter-light.svg)](https://twitter.com/mehdi2050#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/mehdi2050#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mehdi-salimi-2050/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mehdi-salimi-2050/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mehdi-salimi-2050#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mehdi-salimi-2050#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/mehdi_salimi92)
-[![website](./img/instagram-dark.svg)](https://instagram.com/mehdi_salimi92)
+[![website](./img/instagram-light.svg)](https://instagram.com/mehdi_salimi92#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/mehdi_salimi92#gh-dark-mode-only)
 
 ### Languages and Tools:
 
