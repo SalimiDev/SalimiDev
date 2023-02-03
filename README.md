@@ -1,10 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+%F0%9F%91%8B;I%27m+Mehdi+Salimi;Thanks+for+visiting+my+Github!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30%22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+%F0%9F%91%8B;This+is+Mehdi+Salimi;Thanks+for+visiting+my+Github!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30%22">
 </h1>
 
 ###  About Me:
 
-I am a passionate Front-END developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+I am a Front-END developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+I'm a passionate learner who's always willing to learn <br/> and work across technologies and domains 💡I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Web Development 🕸️
 
 
 ### Connect with me:
@@ -24,34 +25,43 @@ I am a passionate Front-END developer <img src="https://media.giphy.com/media/WU
 <br/>
 
 
--   💡 I’m currently learning Next.js
--   👯 I’m looking to collaborate with other programmers
--   🥅 2023 Goals: Learn more about web3 and learn react native
--   🤪 Fun fact: I love to playing video games
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+
+
+### Talking about Personal Stuffs:
+    
+-   🛠  I’m currently working with ReactJS, Javascrip, Sass, Tailwind , etc.
+-   🚀 I’m currently learning Next.js & Postman.
+-   👯 I’m looking to collaborate with other programmers.
+-   🥅 2023 Goals: Learn more about web3 and learn react native.
+-   💬 Ask me about anything here! I am happy to help.
+-   👾 Fun fact: Equal is Not Always Equal in Javascript.
+-   📧 How to reach me: salimi.devop@gmail.com.
 -   🌐 Check out my portfolio site: [Mehdi Salimi](https://mehdisalimi.com)
 
 <br />
 
 ---
 
-### Languages and Tools:
+### Languages and Skills:
+&ensp;
 
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
-
+<div align="center">
+ <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"></code>
+ <code><img height="27" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"></code>
+ <code><img height="27" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"></code>
+ <code><img height="27" src="https://github.com/zumrudu-anka/zumrudu-anka/raw/master/images/npm.svg" alt="npm"></code>
+ <code><img height="27" src="https://github.com/zumrudu-anka/zumrudu-anka/raw/master/images/vscode.png" alt="vscode"></code>
+ <code><img height="27" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"></code>
+</div>
 
 <br />
 <br />
@@ -61,30 +71,35 @@ I am a passionate Front-END developer <img src="https://media.giphy.com/media/WU
 ### 📈 My Top Repositories :
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/peymanath/react-admin-panel" title="React Admin Panel">
-  <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=react-admin-panel&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
+    <a align="left" href="https://github.com/SalimiDev/Hotel-ReactJsApp" title="Hillter Hotel">
+  <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=salimidev&repo=Hotel-ReactJsApp&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
   </a>
-    <a align="right" href="https://github.com/peymanath/adminpanel" title="Admin Panel">
-   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=adminpanel&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
+    <a align="right" href="https://github.com/peymanath/adminpanel](https://github.com/SalimiDev/Portfolio-Project" title="Portfolio App">
+   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=salimidev&repo=Portfolio-Project&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
   </a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/peymanath/shopping-cart" title="Shopping Cart">
-   <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=shopping-cart&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
+  <a align="left" href="https://github.com/SalimiDev/Fitness-App" title="Fitness App">
+   <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=salimidev&repo=Fitness-App&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
   </a>
-  <a align="right" href="https://github.com/peymanath/TodoList" title="TodoList">
-   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=TodoList&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
+  <a align="right" href="https://github.com/SalimiDev/TESLA-CLONE" title="TESLA Clone App">
+   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=salimidev&repo=TESLA-CLONE&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br><br><br><br><br><br>
+<h4 align="center">
+  <a href="https://github.com/SalimiDev?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salimidev&show_icons=true&locale=en&layout=compact" alt="salimidev" /></p>
+<div width="100%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salimidev&show_icons=true&locale=en&layout=compact" alt="salimidev" />
+</div>
 
 
 
