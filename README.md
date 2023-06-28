@@ -38,7 +38,7 @@ I'm a passionate learner who's always willing to learn <br/> and work across tec
 -   👾 Fun fact: Equal is Not Always Equal in Javascript.
 -   📧 How to reach me: salimi.devop@gmail.com.
 -   🌐 Check out my portfolio site: [Mehdi Salimi](https://mehdisalimi.com)
--   ⏬ Click here to download my resume in [English](https://github.com/SalimiDev/SalimiDev/blob/41664adccfa782def807157eee1533498e5dcb32/resume/Mehdi_Salimi-Frontend_Resume-Ordibehesht-402_eng.pdf?raw=true) or [Farsi](https://github.com/SalimiDev/SalimiDev/blob/613ebf73e09c2826dc52309e8b6053fe23432427/resume/Mehdi_Salimi-Frontend_Resume-Tir-402_fa.pdf?raw=true)
+-   ⏬ Click here to download my resume in [English](https://github.com/SalimiDev/SalimiDev/blob/def6d7d2bb7d02e62bd376ad94c192447f3593ea/resume/Mehdi_Salimi-Frontend_Resume-Tir-402_eng.pdf?raw=true) or [Farsi](https://github.com/SalimiDev/SalimiDev/blob/613ebf73e09c2826dc52309e8b6053fe23432427/resume/Mehdi_Salimi-Frontend_Resume-Tir-402_fa.pdf?raw=true)
 
 <br />
 
