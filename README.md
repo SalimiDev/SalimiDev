@@ -30,10 +30,10 @@ I'm a passionate learner who's always willing to learn <br/> and work across tec
 
 ### Talking about Personal Stuffs:
     
--   🛠  I’m currently working with ReactJS, Javascrip, Sass, Tailwind , etc.
--   🚀 I’m currently learning Next.js & Postman.
+-   🛠  I’m currently working with ReactJS, Next.js,TypeScript, Sass, Tailwind , etc.
+-   🚀 I’m currently learning TensorFlow.
 -   👯 I’m looking to collaborate with other programmers.
--   🥅 2023 Goals: Learn more about web3 and learn react native.
+-   🥅 2024 Goals: Learn more about web3 and learn react native.
 -   💬 Ask me about anything here! I am happy to help.
 -   👾 Fun fact: Equal is Not Always Equal in Javascript.
 -   📧 How to reach me: salimi.devop@gmail.com.
