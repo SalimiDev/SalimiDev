@@ -74,8 +74,8 @@ I'm a passionate learner who's always willing to learn <br/> and work across tec
     <a align="left" href="https://github.com/SalimiDev/Hotel-ReactJsApp" title="Hillter Hotel">
   <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=salimidev&repo=Hotel-ReactJsApp&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
   </a>
-    <a align="right" href="https://github.com/peymanath/adminpanel](https://github.com/SalimiDev/Portfolio-Project" title="Portfolio App">
-   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=salimidev&repo=Portfolio-Project&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
+    <a align="right" href="https://github.com/SalimiDev/portfolio-2025" title="Portfolio App">
+   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=salimidev&repo=portfolio-2025&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
   </a>
 </div>
 
